@@ -1,0 +1,115 @@
+/* Q1 */
+h1 {
+    color: blue;
+}
+
+h6 {
+    color: green;
+}
+
+/* Q2 */
+p {
+    font-family: Arial;
+}
+
+/* Q6 */
+input {
+    padding: 8px;
+}
+
+button {
+    padding: 8px 12px;
+}
+
+/* Q7 + Q8 */
+input,
+select {
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Q9 */
+.simple-div {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+/* Q10 */
+audio {
+    margin: 10px;
+}
+
+/* Q11 */
+video {
+    border: 2px solid black;
+}
+
+/* Q12 */
+.internal {
+    color: blue;
+    font-size: 22px;
+}
+
+/* Q14 */
+.external-heading {
+    font-family: Verdana;
+}
+
+body {
+    background-color: white;
+    /* can change if needed */
+}
+
+/* Q15 */
+.color-font {
+    color: purple;
+    font-family: Arial;
+}
+
+/* Q16 */
+.styled-para {
+    color: blue;
+    font-style: italic;
+    font-family: Arial;
+}
+
+/* Q17 */
+.text-style {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+/* Q18 */
+.boxmodel {
+    padding: 20px;
+    border: 3px solid black;
+    margin: 30px;
+}
+
+/* Q19 */
+.boxfinal {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 25px;
+}
+
+/* Q20 */
+.parent {
+    width: 300px;
+    height: 200px;
+    background: lightgray;
+    position: relative;
+    padding: 20px;
+}
+
+.child {
+    width: 150px;
+    background: yellow;
+    padding: 10px;
+    position: absolute;
+    top: 30px;
+    right: 10px;
+}
